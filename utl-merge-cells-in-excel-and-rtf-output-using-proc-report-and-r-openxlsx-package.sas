@@ -20,6 +20,10 @@ github
 https://tinyurl.com/yc7y67kw
 https://github.com/rogerjdeangelis/utl-merge-cells-in-excel-and-rtf-output-using-proc-report-and-r-openxlsx-package
 
+SAS Communities
+https://tinyurl.com/bddx8f6s
+https://communities.sas.com/t5/SAS-Programming/Merge-two-rows-without-lines/m-p/959780#M374443
+
 
      SOLUTIONS
 
